@@ -10,7 +10,7 @@
 </p>
 
 This is a bot i created to keep track of players on an mc server without being an admin
-
+*This from a [template](https://github.com/kkrypt0nn/Python-Discord-Bot-Template/tree/ee84a90bb3c6cede799f470dcc3e97ff129539bd) and some files may have been changed take notice of this*
 
 ## Features
 
