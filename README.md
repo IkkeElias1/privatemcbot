@@ -2,7 +2,7 @@
 # MC Private Bot
 
 <p align="center">
-  <a href="https://discord.gg/mTBrXyWxAF"><img src="https://img.shields.io/discord/109419130897063936?logo=discord"></a>
+  <a href="https://discord.gg/DYRmYfFBfw"><img src="https://img.shields.io/discord/109419130897063936?label=crafters.dk&logo=discord"></a>
   <a href="https://github.com/IkkeElias1/privatemcbot/releases"><img src="https://img.shields.io/github/v/release/IkkeElias1/privatemcbot"></a>
   <a href="https://github.com/IkkeElias1/privatemcbot/commits/main"><img src="https://img.shields.io/github/last-commit/IkkeElias1/privatemcbot"></a>
   <a href="https://github.com/IkkeElias1/privatemcbot"><img src="https://img.shields.io/github/languages/code-size/IkkeElias1/privatemcbot"></a>
