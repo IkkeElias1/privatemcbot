@@ -6,7 +6,6 @@
   <a href="https://github.com/IkkeElias1/privatemcbot/releases"><img src="https://img.shields.io/github/v/release/IkkeElias1/privatemcbot"></a>
   <a href="https://github.com/IkkeElias1/privatemcbot/commits/main"><img src="https://img.shields.io/github/last-commit/IkkeElias1/privatemcbot"></a>
   <a href="https://github.com/IkkeElias1/privatemcbot"><img src="https://img.shields.io/github/languages/code-size/IkkeElias1/privatemcbot"></a>
-  <a href="https://conventionalcommits.org/en/v1.0.0/"><img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white"></a>
 </p>
 
 This is a bot i created to keep track of players on an mc server without being an admin
